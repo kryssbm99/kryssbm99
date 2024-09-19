@@ -15,7 +15,7 @@
 ### 👾 A Little About Me:
 
 - 🎮 Passionate about **competitive videogames**—they fuel my drive for creativity and focus.
-- 💍 Happily married, and always striving to be the best version of myself, both personally and professionally.
+- 💍 Happily married, and always striving to be the best version of myself for me and my family, both personally and professionally.
 - 💻 Love taking on **new challenges in programming**, especially when I can apply my creative mind to problem-solving.
 - 🇵🇷 Currently serving in the **Puerto Rico Army National Guard**, where I’ve developed teamwork, leadership, and the ability to adapt in high-pressure situations.
 - 🌟 Quick learner, with a desire to master **as many programming languages** as I can.
