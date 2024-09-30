@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=kryssbm99&color=red" alt="kryssbm99" />
+i<img align="right" src="https://komarev.com/ghpvc/?username=kryssbm99&color=red" alt="kryssbm99" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Kryss+Babionia!;" />
@@ -31,7 +31,7 @@
   <a href="https://linkedin.com/in/kryssbm99" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
+  <a href="https://docs.google.com/document/d/1qkF-X8avWroYDSYrCgUHzLRKQPylSn9t25T4jilLbec/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
