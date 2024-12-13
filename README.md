@@ -57,6 +57,10 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kryssbm99&show_icons=true&theme=radical)
 
 ---
+## TryHackMe Stats
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3916733" style='border:none;'></iframe>
+
+---
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=kryssbm99&theme=radical)
